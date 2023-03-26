@@ -1,7 +1,7 @@
 {
 	"name": "solidx",
 	"description": "Set of utilities for SolidJS. See https://www.solidjs.com/",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": "Tito Bouzout",
 	"repository": {
 		"type": "git",
