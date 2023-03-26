@@ -1,0 +1,28 @@
+{
+	"name": "solidx",
+	"description": "Set of utilities for SolidJS. See https://www.solidjs.com/",
+	"version": "0.0.1",
+	"author": "Tito Bouzout",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/titoBouzout/solidx"
+	},
+	"exports": {
+		".": "./index.js",
+		"./router": "./router/index.js",
+		"./web": "./src/packages/web.js"
+	},
+	"type": "module",
+	"prettier": {
+		"printWidth": 70,
+		"useTabs": true,
+		"semi": false,
+		"singleQuote": true,
+		"jsxSingleQuote": false,
+		"trailingComma": "all",
+		"bracketSpacing": true,
+		"arrowParens": "avoid",
+		"quoteProps": "preserve",
+		"proseWrap": "never"
+	}
+}
